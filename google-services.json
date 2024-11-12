@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885066980785",
+    "project_id": "react-native-expo-moiz",
+    "storage_bucket": "react-native-expo-moiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885066980785:android:a78feb14038e7a9725b190",
+        "android_client_info": {
+          "package_name": "com.moizali.inderverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvg_Jvm99i_RJMdTYU70YAMXWYTHd6HfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
